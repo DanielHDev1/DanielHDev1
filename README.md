@@ -44,7 +44,7 @@ user profiles, points, feedback and database functionality.
 
 **Technologies:** Java, Android Studio
 
-🔗 [View the project]([YOUR_HYMYAPP_LINK](https://github.com/kanitaa/HymyApp.git))
+🔗 [View the project](https://github.com/kanitaa/HymyApp)
 
 ---
 
@@ -54,10 +54,10 @@ A graphics programming project developed using C++ and OpenGL.
 
 **Technologies:** C++, OpenGL
 
-🔗 [View repository]([YOUR_OPENGL_REPOSITORY_LINK](https://github.com/DanielHDev1/OpenGL-Cube-Demo.git))
+🔗 [View repository](https://github.com/DanielHDev1/OpenGL-Cube-Demo)
 
 ## 🌐 Portfolio
 
 For screenshots, project descriptions and more information about my work:
 
-**[Visit my portfolio →]([YOUR_GITHUB_PAGES_URL](https://danielhdev1.github.io/daniel-heugenhauser/))**
+**[Visit my portfolio →](https://danielhdev1.github.io/daniel-heugenhauser/)**
