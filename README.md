@@ -1,4 +1,4 @@
-# Hi, I'm Daniel 👋
+# Hi, I'm Daniel
 
 I'm a software developer and Bachelor of Engineering in Information and Communications Technology, 
 with a focus on game development and software development.
@@ -6,16 +6,16 @@ with a focus on game development and software development.
 My main technologies are **C#, Unity and Java**, and I have experience developing gameplay systems,
 mobile applications, user interfaces and data persistence systems.
 
-## 🛠️ Technologies
+## Technologies
 
 - **Languages:** C#, Java, C++, Python
 - **Game Development:** Unity, Godot
 - **Mobile Development:** Android Studio
 - **Other:** Git, GitHub, JSON, OpenGL
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎮 Unity Quest System
+### Unity Quest System
 
 A data-driven quest system developed in Unity using C# and ScriptableObjects.
 
@@ -34,7 +34,7 @@ and user interface functionality.
 
 ---
 
-### 📱 HymyApp
+### HymyApp
 
 An Android mobile application developed as a four-person team project for the
 **Finnish Kidney and Liver Association (Munuais- ja maksaliitto)**.
@@ -48,7 +48,7 @@ user profiles, points, feedback and database functionality.
 
 ---
 
-### 🖥️ C++ / OpenGL Project
+### C++ / OpenGL Project
 
 A graphics programming project developed using C++ and OpenGL.
 
@@ -56,7 +56,7 @@ A graphics programming project developed using C++ and OpenGL.
 
 🔗 [View repository](https://github.com/DanielHDev1/OpenGL-Cube-Demo)
 
-## 🌐 Portfolio
+## Portfolio
 
 For screenshots, project descriptions and more information about my work:
 
